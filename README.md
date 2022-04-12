@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at Asconsoft.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Web Development.
 - 💬 Ask me about Mobile development in Flutter.
 - 📫 How to reach me: abhishek.anand@asconsoftech.com
 
